@@ -3,7 +3,7 @@
   "description": "Hammer.js wrapper for Vue 2.x to support some touching operation in the mobile.",
   "version": "1.0.6",
   "author": "bsdfzzzy@gmail.com",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack --config webpack.config.js"
   },
